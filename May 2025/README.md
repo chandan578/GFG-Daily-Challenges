@@ -12,6 +12,6 @@ Daily solution with and also show similar questions...
 | 17-05  |  | C++ | Easy  |----|
 | 18-05  |  | C++ | Easy  |----|
 | 19-05  |  | C++ | Easy  |----|
-| 20-05  | [Burning Tree](https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1) | C++ | Easy  |----|
+| 20-05  | [Burning Tree](https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1) | C++ | Hard  |----|
 
 ### !! Happy Coding !!
