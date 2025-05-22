@@ -19,9 +19,25 @@ New solutions will be added every day!
 | 19-05   | *(Pending)*                                                                                                                         | *(Pending)*                                                                                                                        | Easy     | —                     |
 | 20-05   | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1)                                                         | [C++](https://github.com/chandan578/GFG-Daily-Challenges/blob/main/May%202025/Day%2020%20Burning%20Tree.cpp)                     | Hard     | —                     |
 | 21-05   | [Kth Smallest Number in Multiplication Table](https://www.geeksforgeeks.org/problems/kth-smallest-number-in-multiplication-table/1)                                                         | [C++](https://github.com/chandan578/GFG-Daily-Challenges/blob/main/May%202025/Day%2021%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)                     | Hard     | —                     |
+| 22-05   | [Minimum Deletions](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1)                                                         | [C++](https://github.com/chandan578/GFG-Daily-Challenges/blob/main/May%202025/Day%2021%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)                     | Medium     | —                     |
 
 
 ---
 
-## 📁 Folder Structure
+## 🔗 Related Repos
 
+- [💡 LeetCode Daily Challenges](https://github.com/chandan578/LeetCode-Daily-Challenges)
+
+---
+
+## 📌 How It Works
+
+- 🧠 Each day, a GFG problem is solved and uploaded in the folder `May 2025/`.
+- 📝 Solution files are named based on the day and problem title.
+- 💡 Links to both the **problem** and **solution** are provided.
+
+---
+
+## 💻 Happy Coding!
+
+> *“Consistency is the key to mastery.”*
